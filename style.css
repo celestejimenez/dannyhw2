@@ -7,7 +7,6 @@ h1{
     text-align: center;
 }
 
-
 .welcome {
     text-align: center;
     margin: 5px;
@@ -45,6 +44,10 @@ img.image-pebs {
 
     margin: 50px, 10px;
     display: flex;
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 10%;
+    margin-bottom: 20%;
 
 }
 
@@ -74,3 +77,4 @@ img.image-pebs {
 h3{
     text-align: center;
 }
+

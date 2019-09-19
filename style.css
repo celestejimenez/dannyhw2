@@ -1,0 +1,76 @@
+html {
+    background: whitesmoke;
+}
+
+h1{
+    margin: 5px;
+    text-align: center;
+}
+
+
+.welcome {
+    text-align: center;
+    margin: 5px;
+}
+
+.line {
+    margin: 0px;
+    border: 0px;
+    padding: 0px;
+    color: green;
+    text-align: center;
+
+}
+
+img {
+    vertical-align: middle;
+    height: 50%; 
+    width:20%;
+    
+}
+
+img.image-pebs {
+    display: block;
+    margin: 0 auto;
+}
+
+
+.image-pebs{
+    height: 100%;
+
+}
+
+
+.wrapper {
+
+    margin: 50px, 10px;
+    display: flex;
+
+}
+
+.left  {
+    flex: 0 0 50%;
+    border: 1px solid red;
+    background-color: white;
+    font-size: 20px;
+    
+}
+
+.left p{
+    text-decoration: underline;
+}
+
+.right {
+    flex: 1;
+    border: 1px solid red;
+    background-color: white;
+    
+}
+
+.empty {
+    margin: 45px;
+}
+
+h3{
+    text-align: center;
+}
